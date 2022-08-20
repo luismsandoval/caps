@@ -1,10 +1,10 @@
 # CAPS
 
-## Event Driven Applications
+## Socket.io
 
 ### Author: Luis Sandoval
 
-### Collaborators: Derek Douglas, Zayah Lang, Hugo Thompson
+### Collaborators: Derek Douglas, Zayah Lang, Hugo Thompson, Jim Doyle
 
 ### Links
 

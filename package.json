@@ -1,9 +1,14 @@
 {
-  
-"dependencies": {
-  
-  
-"chance": "^1.1.8"
-  
-}
+  "name": "caps",
+  "scripts": {
+    "start": "node hub start",
+    "test": "jest test"
+  },
+  "dependencies": {
+    "chance": "^1.1.8",
+    "jest": "^28.1.3",
+    "socket.io": "^4.5.1",
+    "socket.io-client": "^4.5.1",
+    "test": "^3.2.1"
+  }
 }
