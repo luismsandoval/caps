@@ -1,6 +1,10 @@
 # CAPS
 
-## Socket.io
+## Queue
+
+## Description
+
+Implement a "queue" to keep track of orders so nothing gets lost and to ensure that the right recipient gets the right message.
 
 ### Author: Luis Sandoval
 
@@ -14,4 +18,4 @@
 
 ### Time Estimate
 
-- 
+- 3 hours
